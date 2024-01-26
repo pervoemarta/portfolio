@@ -1,8 +1,7 @@
 # Portfolio
 Here you can fing my study projects from the academy.
-
-# Here you can fing my study projects from the academy  
-**I'm very proud to declare what I'm able to do as the Data Analyst:**  
+ 
+## I'm very proud to declare what I'm able to do as the Data Analyst:  
 1. Data Pre-processing:
     - cleanse and analyze the data using Python and pandas.
 2. Exploratory Data Analysis:
