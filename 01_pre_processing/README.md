@@ -7,7 +7,7 @@ The customer is the credit department of a bank. We need to understand whether t
 The results of the research will be taken into account when creating a credit scoring model - a special system that assesses the ability of a potential borrower to pay back a loan to the bank.
 
 ### General summary
-In order to assess the reliability of borrowers, a survey was conducted and answers to certain key questions were provided. Following the responses, the findings were as follows:
+In order to assess the reliability of borrowers, a survey was conducted and answers to certain key questions were provided. Following the responses, the findings were as follows:  
 Data preprocessing work was carried out for the study: anomalous values and omissions were removed, the register and loan purpose data were unified, salary ranges were categorised, etc.
 
 The study worked on estimating the dependence of loan return on time on several factors. Thanks to the use of the summary table function, it was possible to assess the influence of the following parameters on the reliability of borrowers:
