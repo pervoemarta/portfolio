@@ -12,7 +12,7 @@ Data preprocessing work was carried out for the study: anomalous values and omis
 
 The study worked on estimating the dependence of loan return on time on several factors. Thanks to the use of the summary table function, it was possible to assess the influence of the following parameters on the reliability of borrowers:
 
-number of children - rather influential (for people with 0-2 children: the more children, the higher the debt),
-marital status - affects (borrowers who are or have been officially married are more reliable),
-income level - for categories B and C: the lower the income, the higher the debt,
-purpose of the loan - affects (car loans are poorly repaid, mortgages are much better).
+- number of children - rather influential (for people with 0-2 children: the more children, the higher the debt),
+- marital status - affects (borrowers who are or have been officially married are more reliable),
+- income level - for categories B and C: the lower the income, the higher the debt,
+- purpose of the loan - affects (car loans are poorly repaid, mortgages are much better).
