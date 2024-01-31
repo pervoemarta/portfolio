@@ -1,5 +1,5 @@
-# Data Pre-processing:
-cleanse and analyze the data using Python (pandas, plotly, display, HTML).
+# Data Pre-processing
+Сleanse and analyze the data using Python (**pandas**, **plotly**, **display**, **HTML**).
 
 ## Borrower reliability
 The customer is the credit department of a bank. We need to understand whether the marital status and the number of children of the client affects the fact of loan payment on time. Input data from the bank - statistics on the solvency of clients.
